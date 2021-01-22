@@ -6,7 +6,7 @@ Angular and Spring-boot project helps to find developers at reasonable cost.
 ### Clone the repo
 
 ```shell
-git clone https://github.com/vinaysomawat/DeveloperAtYourDoor
+git clone https://github.com/yunas195/DeveloperAtYourDoor
 cd DeveloperAtYourDoor/frontend
 ```
 
